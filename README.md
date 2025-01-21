@@ -5,6 +5,10 @@
 ## Overview
 This project aims to classify various plant species using advanced image processing techniques and machine learning models. The methodology involves data augmentation, feature extraction using Histogram of Oriented Gradients (HOG) and Gray-Level Co-occurrence Matrix (GLCM), and classification using Support Vector Machines (SVM) and XGBoost. The results demonstrate high accuracy and robustness in plant species identification.
 
+## Dataset
+
+The dataset used for this project can be found on Mendeley: [Dataset on Mendeley](https://data.mendeley.com/datasets/nnytj2v3n5/1).
+
 ## Key Highlights
 - Utilized OpenCV, Scikit-learn, and XGBoost libraries for image processing, feature extraction, and machine learning.
 - Achieved over 90% accuracy in plant species classification using HOG features and SVM model.
